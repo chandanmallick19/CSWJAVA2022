@@ -1,5 +1,5 @@
 package Assignment1;
-
+import java.util.Scanner;
 public class A1Q4 {
         public static int multiply(int x, int y) {
             int result = 0;
@@ -21,6 +21,7 @@ public class A1Q4 {
             return a;
         }
         public static void main(String[] args) {
+            Scanner sc=new Scanner(System.in);
             int x = 5, y = 8;
             int result = multiply(x, y);
             System.out.println("Result of " + x + " * " + y + " = " + result);

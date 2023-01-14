@@ -1,4 +1,5 @@
-/* Write a program to count number of bits of an integer number.
+/*
+Write a program to count number of bits of an integer number.
 Note: Use bit wise operator.
  */
 

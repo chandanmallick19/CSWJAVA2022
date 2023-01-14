@@ -1,3 +1,7 @@
+/*
+Write a program to swap the ith bit with jth bit of a 64-bits integer number.
+ */
+
 package Assignment1;
 import java.util.Scanner;
 public class A1Q3 {
@@ -9,10 +13,13 @@ public class A1Q3 {
             }
             return n;
         }
-
         public static void main(String[] args) {
+            Scanner sc=new Scanner(System.in);
+            System.out.println("Enter an Integer: ");
             long n = 2874;
+            System.out.println("Enter the i-th bit: ");
             int i = 1;
+            System.out.println("Enter the j-th bit: ");
             int j = 12;
             System.out.println(swapBits(n, i, j));
         }
