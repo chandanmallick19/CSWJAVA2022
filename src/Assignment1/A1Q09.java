@@ -10,7 +10,7 @@ ZA is encoded to 27
 
 package Assignment1;
 import java.util.Scanner;
-public class A1Q9 {
+public class A1Q09 {
         public static void main(String[] args) {
             Scanner sc=new Scanner(System.in);
             System.out.println("Enter a spreadsheet column: ");

@@ -4,7 +4,7 @@ Write a program to swap the ith bit with jth bit of a 64-bits integer number.
 
 package Assignment1;
 import java.util.Scanner;
-public class A1Q3 {
+public class A1Q03 {
         public static long swapBits(long n, int i, int j) {
             // check if the bits at the i and j positions are different
             if (((n >> i) & 1) != ((n >> j) & 1)) {

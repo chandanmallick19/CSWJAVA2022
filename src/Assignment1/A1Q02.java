@@ -5,7 +5,7 @@ Write a program to compute the parity of a very large number of 64-bits.
 
 package Assignment1;
 import java.util.Scanner;
-public class A1Q2 {
+public class A1Q02 {
     public static short parity(long x) {
         x ^= x >>> 32;
         x ^= x >>> 16;

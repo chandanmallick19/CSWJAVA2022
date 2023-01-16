@@ -5,7 +5,7 @@ Note: Use StringBuffer class
 
 package Assignment1;
 import java.util.Scanner;
-public class A1Q5 {
+public class A1Q05 {
         public static void main(String[] args) {
             Scanner sc=new Scanner(System.in);
             String input =sc.nextLine();

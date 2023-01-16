@@ -5,7 +5,7 @@ Note: Use bitwise operator.
 
 package Assignment1;
 import java.util.Scanner;
-public class A1Q4 {
+public class A1Q04 {
         public static int multiply(int x, int y) {
             int result = 0;
             while (y != 0) {

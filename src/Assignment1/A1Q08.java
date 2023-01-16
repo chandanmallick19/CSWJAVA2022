@@ -5,7 +5,7 @@ Note: Don’t use big integer class.
 
 package Assignment1;
 import java.util.Scanner;
-public class A1Q8 {
+public class A1Q08 {
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
             System.out.println("Enter the first integer: ");

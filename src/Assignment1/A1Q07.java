@@ -6,7 +6,7 @@ and month from DOB.
 
 package Assignment1;
 import java.util.Scanner;
-public class A1Q7 {
+public class A1Q07 {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
 

@@ -5,7 +5,7 @@ Note: Use bitwise operator.
 
 package Assignment1;
 import java.util.Scanner;
-public class A1Q1 {
+public class A1Q01 {
     public static int countBits(int n) {
         int count = 0;
         while (n != 0) {
