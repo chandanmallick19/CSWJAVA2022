@@ -1,3 +1,7 @@
+/*
+Write a program to delete all duplicate present in a sorted array.
+ */
+
 package Assignment1;
 import java.util.Scanner;
 

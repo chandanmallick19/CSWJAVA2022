@@ -1,3 +1,8 @@
+/*
+Write program to create a class Student having member variable name, rn, age.
+Add required set, get and constructer to Student class. Crate an array of student object and sort it according to rn in ascending order.
+ */
+
 package Assignment1;
 import java.util.Scanner;
 class Student {

@@ -1,3 +1,9 @@
+/*
+Write a program which read a name and date of birth (DOB)
+create a password which consist of the first two letter of the name
+and month from DOB.
+ */
+
 package Assignment1;
 import java.util.Scanner;
 public class A1Q7 {

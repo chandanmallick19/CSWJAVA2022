@@ -1,8 +1,14 @@
-package Assignment1;
+/*
+Write a program to find the reverse of a string.
+Note: Use StringBuffer class
+ */
 
+package Assignment1;
+import java.util.Scanner;
 public class A1Q5 {
         public static void main(String[] args) {
-            String input = "Hello World";
+            Scanner sc=new Scanner(System.in);
+            String input =sc.nextLine();
             StringBuffer output = new StringBuffer(input);
             output.reverse();
             System.out.println(output);

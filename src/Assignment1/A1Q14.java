@@ -1,3 +1,7 @@
+/*
+Write a program to count how many prime numbers present in an array.ll
+ */
+
 package Assignment1;
 import java.util.Scanner;
 public class A1Q14 {

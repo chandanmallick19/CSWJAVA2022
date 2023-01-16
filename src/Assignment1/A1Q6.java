@@ -1,3 +1,8 @@
+/*
+Write a program to count number of word present in a string.
+Note: Use split function
+ */
+
 package Assignment1;
 import java.util.Scanner;
 public class A1Q6 {

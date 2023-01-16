@@ -1,3 +1,7 @@
+/*
+Write a program to merge two sorted array to make a single sorted array.
+ */
+
 package Assignment1;
 import java.util.Scanner;
 public class A1Q17 {

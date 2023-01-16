@@ -1,3 +1,7 @@
+/*
+Write a program to rotate an integer array.
+ */
+
 package Assignment1;
 import java.util.Scanner;
 public class A1Q15 {

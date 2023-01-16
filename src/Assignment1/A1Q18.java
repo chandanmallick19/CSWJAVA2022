@@ -1,3 +1,7 @@
+/*
+Write program to insert an element in an array at specified position.
+ */
+
 package Assignment1;
 import java.util.Scanner;
 public class A1Q18 {

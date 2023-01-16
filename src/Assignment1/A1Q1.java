@@ -1,6 +1,6 @@
 /*
 Write a program to count number of bits of an integer number.
-Note: Use bit wise operator.
+Note: Use bitwise operator.
  */
 
 package Assignment1;

@@ -1,3 +1,13 @@
+/*
+Write a program which encode the spreadsheet column.
+Example:
+A is encoded to 1
+B is encoded to 2
+…..
+Z is encoded to 26
+ZA is encoded to 27
+ */
+
 package Assignment1;
 import java.util.Scanner;
 public class A1Q9 {

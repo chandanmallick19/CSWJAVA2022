@@ -1,3 +1,8 @@
+/*
+Create a class Num having an integer array as its member and required set, get and constructor.
+Add a method to Num class which find the reverse of the array.
+ */
+
 package Assignment1;
 import java.util.Scanner;
 

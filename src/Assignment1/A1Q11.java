@@ -1,3 +1,7 @@
+/*
+Write a program to revers all word of a sentence.
+ */
+
 package Assignment1;
 import java.util.Scanner;
 public class A1Q11 {

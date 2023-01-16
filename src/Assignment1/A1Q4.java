@@ -1,3 +1,8 @@
+/*
+Compute xXy without arithmetic operator.
+Note: Use bitwise operator.
+ */
+
 package Assignment1;
 import java.util.Scanner;
 public class A1Q4 {

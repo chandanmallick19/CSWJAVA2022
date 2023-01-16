@@ -1,3 +1,8 @@
+/*
+Write a program which reads two integer number of any length from user and find it sum.
+Note: Don’t use big integer class.
+ */
+
 package Assignment1;
 import java.util.Scanner;
 public class A1Q8 {

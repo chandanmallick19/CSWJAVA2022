@@ -1,3 +1,7 @@
+/*
+Write a program to count the frequency of each digit of a number.
+ */
+
 package Assignment1;
 import java.util.Scanner;
 public class A1Q12 {

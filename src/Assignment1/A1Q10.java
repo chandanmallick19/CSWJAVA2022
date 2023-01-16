@@ -1,3 +1,7 @@
+/*
+Write a program which read a number and base1 and base2 and convert the number of base1 to base2.
+ */
+
 package Assignment1;
 import java.util.Scanner;
 public class A1Q10 {

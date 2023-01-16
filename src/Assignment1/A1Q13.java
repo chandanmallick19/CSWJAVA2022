@@ -1,3 +1,7 @@
+/*
+Write a program to count the frequency of each number present in an array.
+ */
+
 package Assignment1;
 import java.util.Scanner;
 public class A1Q13 {
